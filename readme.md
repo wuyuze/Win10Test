@@ -1,6 +1,6 @@
 ## Git Test Project
 
-git on Windows 11
+git on Windows 10
 
 
 
